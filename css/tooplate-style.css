@@ -440,6 +440,8 @@ b, strong {
   border: 0;
   cursor: pointer;
   transition: all 0.4s ease;
+  width: 150px;
+  margin: 20px auto 0;
 }
 .contact-form .submit-btn:hover {
   background: #474559;
