@@ -29,6 +29,7 @@ $link-font-size: 16px;
 }
 
 body {
+	background-color: #0c0c0d;
 	font-family: $font-base;
 	padding-top: 70px;
 }
@@ -67,8 +68,10 @@ a {
 .navbar-brand {
 	.uil {
 		font-size: 40px;
+		
 	}
 }
+
 
 
 // TYPOGRAPHY
@@ -179,6 +182,7 @@ b, strong {
 
 // MENU
 .navbar {
+	 
 	position: fixed;
     top: 0;
     right: 0;
@@ -659,3 +663,4 @@ b, strong {
 
 	
 }
+
